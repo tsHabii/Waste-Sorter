@@ -40,6 +40,14 @@ The project detects and classifies waste items (e.g., plastic, cardboard, paper)
 
 ---
 
+## Bin & Schematic
+
+_Add images or GIFs of the project in action here._  
+<img width="737" height="710" alt="Waste S" src="https://github.com/user-attachments/assets/22fd9875-1c5c-4767-915b-ad1dfd032dd8" />
+<img width="1536" height="1024" alt="Waste Sorter Schematic" src="https://github.com/user-attachments/assets/1175480d-80f5-4ae9-ac87-6dadeb93415f" />
+
+---
+
 ## ⚙️ How It Works
 
 1. The ESP32-CAM  detects an object placed in front of it, whethe it is a waste matrial of plastic, paper or cardboard. 
